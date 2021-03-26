@@ -1,0 +1,51 @@
+		.leftnav
+		{
+			float: left;
+		}
+		.leftnav1
+		{
+			float: left;
+			padding-left: 30px;
+		}
+		.rightnav
+		{
+			float: right;
+			padding-top: 10px;
+			margin-right: 5%;
+		}
+		.rightnav a
+		{
+			margin: 10px;
+
+		}
+		header
+		{
+			clear: both;
+			height: 70px;
+		}
+		.Ref
+		{
+			clear: both;
+			height: 20px;
+		}
+		img 
+		{
+ 			height: 50px;
+ 			margin-top: 10px;
+ 			padding-left: 10px;
+		}
+		footer
+		{
+			text-align: center;
+			width: 100%;
+			height: 60px; 
+			
+		}
+		.copyright p
+		{
+			margin: 0;
+			padding: 0;
+			line-height: 60px;
+		}	
+	
+		

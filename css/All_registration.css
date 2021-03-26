@@ -1,0 +1,287 @@
+/*----------------------------------------------------for Patient page-----------------------------------------------------*/
+.Normal_welcome_ref
+  {
+      padding-left: 10px;
+      padding-right: 20px;
+      padding-bottom: 100px;
+      background-color: #4CAF50;
+      float: left;
+  }
+  .Normal_welcome
+  {
+     padding-left: 60px;
+     height: 200px;
+     padding-bottom: 100px;
+  }
+  .margin_top_0px
+  {
+    margin-top: 0px;
+  }
+/*-----------------------------------------------------for Final show all info---------------------------------------------*/
+  .final_ref_show
+  { 
+      padding-left: 10px;
+      padding-right: 20px;
+      padding-bottom: 540px;
+      background-color: #4CAF50;
+      float: left;
+  }
+  .final_main_show
+  {
+     padding-left: 50px;
+     height: 600px;
+     padding-bottom: 100px;
+  }
+  .final_footer
+    {
+      background-color: #4CAF50;
+      clear: both;
+    }
+/*-----------------------------------------------------for Final show patient info---------------------------------------------*/
+  .final_ref_show_patient
+  { 
+      padding-left: 10px;
+      padding-right: 20px;
+      padding-bottom: 470px;
+      background-color: #4CAF50;
+      float: left;
+  }
+/*--------------------------------------------------------for show All info------------------------------------------*/
+ .label
+    {
+      width: 130px;
+      display: inline-block;
+    }
+    .error 
+    {
+      color: #FF0000;
+    }
+    .ex1 
+    { 
+      max-width: 400px;
+      padding:10px;
+      width:850px;
+      margin-right: 250px;
+    }
+    .pad_All
+    {
+      padding:50px 300px 50px 110px;
+    }
+
+    .width750_height550
+    {
+      width:750px;
+      height: 550px;
+    }
+    .color_blue
+    {
+      color: blue;
+    }
+    .float_left
+    {
+      float: left;
+    }
+    .pad5px
+    {
+      padding:5px;
+    }
+    .float_right_width200
+    {
+      float: right;
+      width: 200px;
+    }
+
+    /*------------------------------------------For doctor show---------------------------- */
+
+    .width750_height570_dctr
+    {
+      width:750px;
+      height: 570px;
+    }
+/*----------------------------------------------------for Final registration-----------------------------------------------------*/
+   .final_ref
+    { 
+        padding-left: 10px;
+        padding-right: 20px;
+        padding-bottom: 665px;
+        background-color: #4CAF50;
+        float: left;
+        height: 370px;
+    }
+    .final_main
+    {
+      padding-left: 50px;
+      height: 800px;
+      padding-bottom: 100px;
+    }
+    .final_footer
+    {
+      background-color: #4CAF50;
+      clear: both;
+    }
+/*--------------------------------------------------for Reference--------------------------------------------------------*/
+    
+/*----------------------------------------------------for registration-----------------------------------------------------*/
+    .label
+    {
+      width: 130px;
+      display: inline-block;
+    }
+    .error 
+    {
+      color: #FF0000;
+    }
+    .ex1 
+    { 
+      max-width: 400px;
+      padding:10px;
+      width:850px;
+      margin-right: 250px;
+    }
+    .pad_All
+    {
+      padding:50px 300px 50px 110px;
+    }
+    .width750_height910_Dctr
+    {
+      width:750px;
+      height: 910px;
+    }
+    .width750_height780_Dvr_Rep
+    {
+      width:750px;
+      height: 780px;
+    }
+    .color_blue
+    {
+      color: blue;
+    }
+    .float_left
+    {
+      float: left;
+    }
+    .pad5px
+    {
+      padding:5px;
+    }
+    .pad_left135
+    {
+      padding-left: 135px;
+    }
+    .width290
+    {
+      width: 290px;
+    }
+    .float_right_width200
+    {
+      float: right;
+      width: 200px;
+    }
+    .height150
+    {
+      height: 150px;
+    }
+    .pad_top20
+    {
+      padding-top: 20px;
+    }
+    .width35per
+    {
+      width: 35.5%
+    }
+/*----------------------------------------------------for final update all-----------------------------------------------------*/
+.final_ref_update
+  { 
+      padding-left: 10px;
+      padding-right: 20px;
+      padding-bottom: 720px;
+      background-color: #4CAF50;
+      float: left;
+  }
+  .final_main_update
+  {
+     padding-left: 50px;
+     height: 800px;
+     padding-bottom: 100px;
+  }
+  .final_footer
+    {
+      background-color: #4CAF50;
+      clear: both;
+    }
+/*----------------------------------------------------for final update receptionist-----------------------------------------------*/
+.final_ref_update_recep
+  { 
+      padding-left: 10px;
+      padding-right: 20px;
+      padding-bottom: 800px;
+      background-color: #4CAF50;
+      float: left;
+  }
+
+/*----------------------------------------------------for all update receptionist-----------------------------------------------*/
+.label
+    {
+      width: 130px;
+      display: inline-block;
+    }
+    .error 
+    {
+      color: #FF0000;
+    }
+    .ex1 
+    { 
+      max-width: 400px;
+      padding:10px;
+      width:850px;
+      margin-right: 250px;
+    }
+    .pad_All
+    {
+      padding:50px 300px 50px 110px;
+    }
+    .width750_height780_Dvr_Rep
+    {
+      width:750px;
+      height: 780px;
+    }
+    .color_blue
+    {
+      color: blue;
+    }
+    .float_left
+    {
+      float: left;
+    }
+    .pad5px
+    {
+      padding:5px;
+    }
+    .pad_left135
+    {
+      padding-left: 135px;
+    }
+    .width290
+    {
+      width: 290px;
+    }
+    .float_right_width200
+    {
+      float: right;
+      width: 200px;
+    }
+    .pad_top20
+    {
+      padding-top: 20px;
+    }
+    .width35per
+    {
+      width: 35.5%
+    }
+    .float_right_width200_height200
+    {
+      float: right;
+      width: 200px; 
+      height: 200px
+    }
+
